@@ -60,7 +60,7 @@ Se debe digitar un número que represente la función deseada entre 1 y 7
 Java v 17
 </p>
 <p align="justify">
-Affinity Designer
+Affinity Designer.
 </p>
 
 ## Api utilizada
