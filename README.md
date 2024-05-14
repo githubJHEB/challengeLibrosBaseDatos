@@ -31,7 +31,7 @@
 <p align="justify">
 Este reto busca poner en práctica por medio de Spring Boot, la solicitud de información a la API de https://gutendex.com/books/, la cual ofrece el servicio de lista de libros con algunos datos característicos, entre ellos autor, link de descarga y otros. Tambien busca poner en práctica el mapeo de los resultados obtenidos JSON, con la libreria Hibernate JPA, para posteriormente crear un CRUDE con base de datos Postgresql.
 
-![Descripción del proyecto. La figura muestra un niño leyendo un libor](https://github.com/githubJHEB/challengeLibrosBaseDatos/assets/35204102/2d9a03ce-0dbc-4cb3-a629-eb9d1a52efc6)
+![Descripción del proyecto. La figura muestra un niño leyendo un libor](https://github.com/githubJHEB/challengeLibrosBaseDatos/assets/35204102/7ca96678-ec78-4fae-a3e3-1d52d50fa8d5)
 
 </p>
 
